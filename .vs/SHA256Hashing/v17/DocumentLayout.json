@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SHA256Hashing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537D8677-458D-4930-869B-1F60F05805D3}|SHA256Hashing\\SHA256Hashing.vcxproj|C:\\Users\\user\\source\\repos\\SHA256Hashing\\SHA256Hashing\\SHA256Hashing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{537D8677-458D-4930-869B-1F60F05805D3}|SHA256Hashing\\SHA256Hashing.vcxproj|solutionrelative:SHA256Hashing\\SHA256Hashing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHA256Hashing.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHA256Hashing\\SHA256Hashing\\SHA256Hashing.cpp",
+              "RelativeDocumentMoniker": "SHA256Hashing\\SHA256Hashing.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHA256Hashing\\SHA256Hashing\\SHA256Hashing.cpp",
+              "RelativeToolTip": "SHA256Hashing\\SHA256Hashing.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T23:01:42.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
